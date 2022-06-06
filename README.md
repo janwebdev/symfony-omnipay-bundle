@@ -7,6 +7,7 @@ It supports Symfony 4.4, 5.x, 6.x and PHP 7.4+, 8.0.x, 8.1.x
 [![Latest Stable Version](https://poser.pugx.org/janwebdev/symfony-omnipay-bundle/v)](//packagist.org/packages/janwebdev/symfony-omnipay-bundle) [![Total Downloads](https://poser.pugx.org/janwebdev/symfony-omnipay-bundle/downloads)](//packagist.org/packages/janwebdev/symfony-omnipay-bundle) [![Latest Unstable Version](https://poser.pugx.org/janwebdev/omnipay-cardinity/v/unstable)](//packagist.org/packages/janwebdev/symfony-omnipay-bundle) [![License](https://poser.pugx.org/janwebdev/omnipay-cardinity/license)](//packagist.org/packages/janwebdev/symfony-omnipay-bundle)
 
 ##Installation
+
 Via Composer
 
 ``` bash

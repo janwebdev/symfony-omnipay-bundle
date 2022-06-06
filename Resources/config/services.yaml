@@ -1,0 +1,12 @@
+parameters:
+    omnipay.class: Janwebdev\OmnipayBundle\Manager\OmnipayManager
+
+services:
+    omnipay:
+        class: "%omnipay.class%"
+        arguments:
+            - "@omnipay.factory"
+
+    omnipay.factory:
+        class: Omnipay\Common\GatewayFactory
+        public: false

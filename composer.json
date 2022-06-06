@@ -2,7 +2,7 @@
     "name": "janwebdev/symfony-omnipay-bundle",
     "description": "Omnipay bundle for Symfony 4.4 / 5.x / 6.x",
     "keywords": ["omnipay", "bundle", "symfony", "payment", "php", "gateway", "credit card"],
-    "homepage": "https://github.com/colinodell/omnipay-bundle",
+    "homepage": "https://github.com/janwebdev/symfony-omnipay-bundle",
     "license": "MIT",
     "authors": [
         {
